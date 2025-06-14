@@ -4,4 +4,4 @@ Read Description: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
 
 To Run:
 - $ make
-- ./main
+- $ ./main
